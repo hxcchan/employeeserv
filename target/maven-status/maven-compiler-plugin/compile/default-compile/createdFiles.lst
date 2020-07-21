@@ -1,0 +1,5 @@
+com/paypal/bfs/test/employeeserv/impl/EmployeeResourceImpl.class
+com/paypal/bfs/test/employeeserv/api/EmployeeResource.class
+com/paypal/bfs/test/employeeserv/EmployeeservApplication.class
+com/paypal/bfs/test/employeeserv/dao/EmployeeDAO.class
+com/paypal/bfs/test/employeeserv/api/model/Employee.class
